@@ -1,0 +1,23 @@
+*{
+    /* margin: 0; */
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.natura{
+    
+    display: flex;
+    
+}
+.turnon, .turnoff{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+    
+    background-color: rgb(208, 204, 211);
+    cursor: pointer;
+}
+
